@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/35felix-au/metric-conversion-py.git
 ```
+
+*Initialized by app-admin-15 workspace automation.*
