@@ -11,3 +11,5 @@ def kg_to_lbs(kg):
 
 if __name__ == "__main__":
     print("0 C in F:", celsius_to_fahrenheit(0))
+    print("10 km in miles:", km_to_miles(10))
+    print("5 kg in lbs:", kg_to_lbs(5))
